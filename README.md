@@ -25,7 +25,7 @@ EMS
   Easy My Stocks is a portable web application this mean that you can at anytime move it in any folder of your central server and easly migrate him to an over machine.
 so let talk about instalation :
 
-First : Download the Easy My Stocks.zip file at the following addresse : https://sourceforge.net/projects/easy-my-stock/
+First : Download the Easy My Stocks.zip file at the following addresse : https://drive.google.com/file/d/1d33IvZfl4u-vrj0Dt0YG0_LcU8PT7GsQ/view?usp=sharing
   After the dowload finish unzip it in the folder you wich to intall it you should get something like that :
   > ![Simple capture](wiki_1.PNG)
 
